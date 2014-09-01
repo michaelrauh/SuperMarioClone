@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMario", "SuperMario.csproj", "{855639A5-8452-474A-88DB-99E0685E5FA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMarioContent", "..\SuperMarioContent\SuperMarioContent.contentproj", "{F416CABB-825E-4DB3-B382-CF1C58298A82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLInput", "XMLInput\XMLInput.csproj", "{E998114A-5AE5-4143-BF6E-4CB19415454B}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://masekar.visualstudio.com/defaultcollection
+		SccProjectUniqueName0 = SuperMario.csproj
+		SccLocalPath0 = .
+		SccLocalPath1 = .
+		SccProjectUniqueName2 = XMLInput\\XMLInput.csproj
+		SccProjectName2 = XMLInput
+		SccLocalPath2 = XMLInput
+		SccProjectUniqueName3 = ..\\SuperMarioContent\\SuperMarioContent.contentproj
+		SccProjectName3 = ../SuperMarioContent
+		SccLocalPath3 = ..\\SuperMarioContent
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{855639A5-8452-474A-88DB-99E0685E5FA0}.Debug|x86.ActiveCfg = Debug|x86
+		{855639A5-8452-474A-88DB-99E0685E5FA0}.Debug|x86.Build.0 = Debug|x86
+		{855639A5-8452-474A-88DB-99E0685E5FA0}.Release|x86.ActiveCfg = Release|x86
+		{855639A5-8452-474A-88DB-99E0685E5FA0}.Release|x86.Build.0 = Release|x86
+		{F416CABB-825E-4DB3-B382-CF1C58298A82}.Debug|x86.ActiveCfg = Debug|x86
+		{F416CABB-825E-4DB3-B382-CF1C58298A82}.Release|x86.ActiveCfg = Release|x86
+		{E998114A-5AE5-4143-BF6E-4CB19415454B}.Debug|x86.ActiveCfg = Debug|x86
+		{E998114A-5AE5-4143-BF6E-4CB19415454B}.Debug|x86.Build.0 = Debug|x86
+		{E998114A-5AE5-4143-BF6E-4CB19415454B}.Release|x86.ActiveCfg = Release|x86
+		{E998114A-5AE5-4143-BF6E-4CB19415454B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
